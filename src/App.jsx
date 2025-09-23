@@ -10,13 +10,13 @@ export default function Portfolio() {
         <h1 className="text-4xl font-bold mb-2">Alger Da Costa</h1>
         <p className="text-lg text-gray-600">Software Engineer | MSc Computer Science @ Bath</p>
         <div className="flex justify-center gap-4 mt-4">
-          <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Alger2829" target="_blank" rel="noopener noreferrer">
             <Github className="w-6 h-6" />
           </a>
           <a href="mailto:algerdacosta02@gmail.com">
             <Mail className="w-6 h-6" />
           </a>
-          <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
+          <a href="https://linkedin.com/algerdacosta" target="_blank" rel="noopener noreferrer">
             <Linkedin className="w-6 h-6" />
           </a>
         </div>
