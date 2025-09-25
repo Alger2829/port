@@ -16,7 +16,7 @@ export default function Portfolio() {
           <a href="mailto:algerdacosta02@gmail.com">
             <Mail className="w-6 h-6" />
           </a>
-          <a href="www.linkedin.com/in/algerdacosta" target="_blank" rel="noopener noreferrer">
+          <a href="https://linkedin.com/in/algerdacosta" target="_blank" rel="noopener noreferrer">
             <Linkedin className="w-6 h-6" />
           </a>
         </div>
