@@ -83,19 +83,19 @@ export default function Portfolio() {
             {
               title: "Homomorphic Encryption Research",
               description: "Implemented techniques for secure voting, encrypted queries, and biometric authentication using Microsoft SEAL and TenSEAL.",
-              link: "https://github.com/your-username/homomorphic-encryption",
+              link: "https://github.com/Alger2829/homomorphic-encryption",
               accent: "border-l-4 border-l-slate-400"
             },
             {
               title: "Inside Immune (Game)",
               description: "Educational game built with Python and PyGame to teach biological immune responses. Developed in a Scrum team with version control via Git.",
-              link: "https://github.com/your-username/inside-immune",
+              link: "https://github.com/Alger2829/inside-immune",
               accent: "border-l-4 border-l-slate-400"
             },
             {
               title: "Contactless Touch Interaction",
               description: "Developed a Leap Motion–based system for contactless display interaction, focusing on real-time gesture recognition and probabilistic algorithms to improve touch intent detection. The project enhances user experience by enabling precise and hygienic touchless control of digital interfaces.",
-              link: "https://github.com/your-username/contactless-display",
+              link: "https://github.com/Alger2829/contactless-display",
               accent: "border-l-4 border-l-slate-400"
             }
           ].map((project, index) => (
